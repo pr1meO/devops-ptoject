@@ -38,7 +38,7 @@ namespace CSharp.Service.Controllers
 
             var client = _httpClientFactory.CreateClient();
             var response = await client.PostAsJsonAsync(
-                $"{_pythonServiceUrl}/api/process",
+                $"{_pythonServiceUrl}/api/refresh",
                 new
                 {
                     request.Lastname,

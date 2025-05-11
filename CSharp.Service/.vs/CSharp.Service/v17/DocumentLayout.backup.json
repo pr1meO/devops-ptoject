@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "D:\\Data\\repos\\CSharp.Service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B337DC38-28FA-44B4-A73B-4C7DE7433721}|CSharp.Service\\CSharp.Service.csproj|d:\\data\\repos\\csharp.service\\csharp.service\\errors\\errormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B337DC38-28FA-44B4-A73B-4C7DE7433721}|CSharp.Service\\CSharp.Service.csproj|solutionrelative:csharp.service\\errors\\errormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B337DC38-28FA-44B4-A73B-4C7DE7433721}|CSharp.Service\\CSharp.Service.csproj|d:\\data\\repos\\csharp.service\\csharp.service\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B337DC38-28FA-44B4-A73B-4C7DE7433721}|CSharp.Service\\CSharp.Service.csproj|solutionrelative:csharp.service\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B337DC38-28FA-44B4-A73B-4C7DE7433721}|CSharp.Service\\CSharp.Service.csproj|d:\\data\\repos\\csharp.service\\csharp.service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B337DC38-28FA-44B4-A73B-4C7DE7433721}|CSharp.Service\\CSharp.Service.csproj|solutionrelative:csharp.service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B337DC38-28FA-44B4-A73B-4C7DE7433721}|CSharp.Service\\CSharp.Service.csproj|d:\\data\\repos\\csharp.service\\csharp.service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B337DC38-28FA-44B4-A73B-4C7DE7433721}|CSharp.Service\\CSharp.Service.csproj|solutionrelative:csharp.service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -51,53 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ErrorMessage.cs",
-              "DocumentMoniker": "D:\\Data\\repos\\CSharp.Service\\CSharp.Service\\Errors\\ErrorMessage.cs",
-              "RelativeDocumentMoniker": "CSharp.Service\\Errors\\ErrorMessage.cs",
-              "ToolTip": "D:\\Data\\repos\\CSharp.Service\\CSharp.Service\\Errors\\ErrorMessage.cs",
-              "RelativeToolTip": "CSharp.Service\\Errors\\ErrorMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T21:00:13.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Data\\repos\\CSharp.Service\\CSharp.Service\\Models\\User.cs",
-              "RelativeDocumentMoniker": "CSharp.Service\\Models\\User.cs",
-              "ToolTip": "D:\\Data\\repos\\CSharp.Service\\CSharp.Service\\Models\\User.cs",
-              "RelativeToolTip": "CSharp.Service\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T20:24:32.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Data\\repos\\CSharp.Service\\CSharp.Service\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "CSharp.Service\\Controllers\\UserController.cs",
               "ToolTip": "D:\\Data\\repos\\CSharp.Service\\CSharp.Service\\Controllers\\UserController.cs",
               "RelativeToolTip": "CSharp.Service\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T20:15:34.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Data\\repos\\CSharp.Service\\CSharp.Service\\Dockerfile",
-              "RelativeDocumentMoniker": "CSharp.Service\\Dockerfile",
-              "ToolTip": "D:\\Data\\repos\\CSharp.Service\\CSharp.Service\\Dockerfile",
-              "RelativeToolTip": "CSharp.Service\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-11T18:36:05.249Z",
+              "WhenOpened": "2025-05-11T21:46:03.017Z",
               "EditorCaption": ""
             }
           ]
