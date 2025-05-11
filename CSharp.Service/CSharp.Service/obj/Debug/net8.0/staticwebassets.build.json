@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rNjKVlmujkLHtswrICURRU8W6SmbsrRXezdsdY5ojA4=",
+  "Source": "CSharp.Service",
+  "BasePath": "_content/CSharp.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

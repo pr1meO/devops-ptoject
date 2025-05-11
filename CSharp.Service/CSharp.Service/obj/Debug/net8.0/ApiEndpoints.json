@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CSharp.Service.Controllers.UserController",
+    "Method": "CreateAsync",
+    "RelativePath": "users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSharp.Service.Contracts.UserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
